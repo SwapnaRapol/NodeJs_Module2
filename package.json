@@ -1,0 +1,22 @@
+{
+  "name": "module2",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeJs_Module2"
+  },
+  "keywords": [
+    "NodeJs"
+  ],
+  "author": "Swapna Rapol",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "yargs": "^17.3.1"
+  }
+}
